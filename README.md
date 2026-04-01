@@ -1,1 +1,1 @@
-# std
+# personal study repository
